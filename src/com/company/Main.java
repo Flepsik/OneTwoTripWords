@@ -33,7 +33,6 @@ public class Main {
                             charsToFind.remove(charInLowerCase);
                         }
                     }
-                    System.out.println("Прочитано " + character);
                     currentCol++;
                 }
                 currentRow++;
